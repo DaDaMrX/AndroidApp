@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">课程网站</string>
+    <string name="title_home">主页</string>
+    <string name="title_courses">课程</string>
+    <string name="title_me">我的</string>
+    <string name="title_activity_course_detail">CourseDetailActivity</string>
+    <string name="developing">Developing...</string>
+</resources>
